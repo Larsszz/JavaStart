@@ -22,6 +22,6 @@ public class DigitsPrinter {
             delitel *= 10;
         }
         System.out.print(Arrays.toString(arrayOfNum));
-        
+
     }
 }
